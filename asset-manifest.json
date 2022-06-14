@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.890b0e00.css",
-    "main.js": "/static/js/main.9920e164.js",
+    "main.css": "/static/css/main.a5f8c016.css",
+    "main.js": "/static/js/main.cbd93a0c.js",
     "static/media/solarSystem.mp4": "/static/media/solarSystem.779735340ae3480e4ff2.mp4",
     "static/media/scaledSolarSystem.mp4": "/static/media/scaledSolarSystem.0515764844ed459f2880.mp4",
     "static/media/workInProgress.png": "/static/media/workInProgress.6560ccd489dad2c0c767.png",
     "index.html": "/index.html",
     "static/media/arrow.svg": "/static/media/arrow.aa02bbd3eae6d515a504.svg",
-    "main.890b0e00.css.map": "/static/css/main.890b0e00.css.map",
-    "main.9920e164.js.map": "/static/js/main.9920e164.js.map"
+    "main.a5f8c016.css.map": "/static/css/main.a5f8c016.css.map",
+    "main.cbd93a0c.js.map": "/static/js/main.cbd93a0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.890b0e00.css",
-    "static/js/main.9920e164.js"
+    "static/css/main.a5f8c016.css",
+    "static/js/main.cbd93a0c.js"
   ]
 }
