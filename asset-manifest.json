@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4433bc25.css",
+    "main.css": "/static/css/main.f462d91b.css",
     "main.js": "/static/js/main.7d68c7ff.js",
     "static/media/solarSystem.mp4": "/static/media/solarSystem.779735340ae3480e4ff2.mp4",
     "static/media/space.png": "/static/media/space.0dced38ca9c5cd176fed.png",
@@ -9,11 +9,11 @@
     "static/media/spaceman_coffee.jpeg": "/static/media/spaceman_coffee.8e9edb2035f535394231.jpeg",
     "index.html": "/index.html",
     "static/media/arrow.svg": "/static/media/arrow.aa02bbd3eae6d515a504.svg",
-    "main.4433bc25.css.map": "/static/css/main.4433bc25.css.map",
+    "main.f462d91b.css.map": "/static/css/main.f462d91b.css.map",
     "main.7d68c7ff.js.map": "/static/js/main.7d68c7ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.4433bc25.css",
+    "static/css/main.f462d91b.css",
     "static/js/main.7d68c7ff.js"
   ]
 }
