@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3a0ec90.css",
-    "main.js": "/static/js/main.bff1033a.js",
+    "main.css": "/static/css/main.ae339416.css",
+    "main.js": "/static/js/main.7d68c7ff.js",
     "static/media/solarSystem.mp4": "/static/media/solarSystem.779735340ae3480e4ff2.mp4",
+    "static/media/space.png": "/static/media/space.0dced38ca9c5cd176fed.png",
     "static/media/scaledSolarSystem.mp4": "/static/media/scaledSolarSystem.0515764844ed459f2880.mp4",
     "static/media/workInProgress.png": "/static/media/workInProgress.6560ccd489dad2c0c767.png",
-    "static/media/rsz.jpeg": "/static/media/rsz.180c201bc4627f44d139.jpeg",
+    "static/media/spaceman_coffee.jpeg": "/static/media/spaceman_coffee.8e9edb2035f535394231.jpeg",
     "index.html": "/index.html",
     "static/media/arrow.svg": "/static/media/arrow.aa02bbd3eae6d515a504.svg",
-    "main.b3a0ec90.css.map": "/static/css/main.b3a0ec90.css.map",
-    "main.bff1033a.js.map": "/static/js/main.bff1033a.js.map"
+    "main.ae339416.css.map": "/static/css/main.ae339416.css.map",
+    "main.7d68c7ff.js.map": "/static/js/main.7d68c7ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3a0ec90.css",
-    "static/js/main.bff1033a.js"
+    "static/css/main.ae339416.css",
+    "static/js/main.7d68c7ff.js"
   ]
 }
