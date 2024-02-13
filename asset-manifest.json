@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.75939863.css",
-    "main.js": "/static/js/main.829f8519.js",
-    "static/media/solarSystem.mp4": "/static/media/solarSystem.779735340ae3480e4ff2.mp4",
-    "static/media/space.png": "/static/media/space.0dced38ca9c5cd176fed.png",
-    "static/media/scaledSolarSystem.mp4": "/static/media/scaledSolarSystem.0515764844ed459f2880.mp4",
+    "main.css": "/static/css/main.20377c4d.css",
+    "main.js": "/static/js/main.5b685436.js",
+    "static/media/wanna_read_scifi_classics.png": "/static/media/wanna_read_scifi_classics.891c78ad9740e1fa277e.png",
     "static/media/workInProgress.png": "/static/media/workInProgress.6560ccd489dad2c0c767.png",
-    "static/media/spaceman_coffee.jpeg": "/static/media/spaceman_coffee.8e9edb2035f535394231.jpeg",
+    "static/media/9B.jpeg": "/static/media/9B.4ebda6ba46d923065947.jpeg",
+    "static/media/scaled_solar_system.png": "/static/media/scaled_solar_system.a02252b2ce66545a7c3a.png",
+    "static/media/creation.jpeg": "/static/media/creation.602c4921f016ae4b844d.jpeg",
+    "static/media/spaceman.jpeg": "/static/media/spaceman.3a33bc2121db33bacecc.jpeg",
     "index.html": "/index.html",
-    "static/media/arrow.svg": "/static/media/arrow.aa02bbd3eae6d515a504.svg",
-    "main.75939863.css.map": "/static/css/main.75939863.css.map",
-    "main.829f8519.js.map": "/static/js/main.829f8519.js.map"
+    "main.20377c4d.css.map": "/static/css/main.20377c4d.css.map",
+    "main.5b685436.js.map": "/static/js/main.5b685436.js.map"
   },
   "entrypoints": [
-    "static/css/main.75939863.css",
-    "static/js/main.829f8519.js"
+    "static/css/main.20377c4d.css",
+    "static/js/main.5b685436.js"
   ]
 }
