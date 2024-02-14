@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.73b236a9.css",
+    "main.css": "/static/css/main.e7a38881.css",
     "main.js": "/static/js/main.f43a1657.js",
     "static/media/wanna_read_scifi_classics.png": "/static/media/wanna_read_scifi_classics.891c78ad9740e1fa277e.png",
     "static/media/workInProgress.png": "/static/media/workInProgress.6560ccd489dad2c0c767.png",
@@ -9,11 +9,11 @@
     "static/media/creation.jpeg": "/static/media/creation.602c4921f016ae4b844d.jpeg",
     "static/media/spaceman.jpeg": "/static/media/spaceman.3a33bc2121db33bacecc.jpeg",
     "index.html": "/index.html",
-    "main.73b236a9.css.map": "/static/css/main.73b236a9.css.map",
+    "main.e7a38881.css.map": "/static/css/main.e7a38881.css.map",
     "main.f43a1657.js.map": "/static/js/main.f43a1657.js.map"
   },
   "entrypoints": [
-    "static/css/main.73b236a9.css",
+    "static/css/main.e7a38881.css",
     "static/js/main.f43a1657.js"
   ]
 }
